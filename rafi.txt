@@ -16,3 +16,7 @@ Step3
   sudo apt-get update
   sudo apt-get install fontconfig openjdk-17-jre
   sudo apt-get install jenkins
+
+Step4
+
+End the process
